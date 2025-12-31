@@ -4,23 +4,17 @@ This repository is a fork of [antoinelame/GazeTracking](https://github.com/antoi
 
 ## Installation
 
-Clone this project:
-
 ```shell
 git clone https://github.com/antoinelame/GazeTracking.git
 ```
 
 ### For Pip install
 
-Install these dependencies (NumPy, OpenCV, Dlib):
-
 ```shell
 pip install -r requirements.txt
 ```
 
 ### For Anaconda install
-
-Install these dependencies:
 
 ```shell
 conda env create --file environment.yml
